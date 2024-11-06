@@ -37,4 +37,4 @@ jobs:
 
       # Runs the specified test file
       - name: Run tests for species5.spec.js
-        run: npx jest __testes__/species5.spec.js
+        run: npx jest __testes__/especie5.spec.js
